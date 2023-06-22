@@ -3,5 +3,5 @@ package public2
 import "fmt"
 
 func HelloWorld() {
-	fmt.Println("Hello World, from public-2")
+	fmt.Println("Hello World, from public-2!")
 }
